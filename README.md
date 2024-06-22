@@ -1,5 +1,5 @@
 # N-Everything
-<div style="text-align: center;"><a href="https://imgbb.com/"><img src="https://i.ibb.co/Tq5cQT9/image1.png" alt="image1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br /></div>
+<div style="text-align: center;"><a><img src="https://i.ibb.co/Tq5cQT9/image1.png" alt="image1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br /></div>
 
 
 ---
